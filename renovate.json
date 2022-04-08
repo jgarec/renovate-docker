@@ -3,11 +3,11 @@
     "config:base"
   ],
  "hostRules": [{
-    hostType: 'docker',
+    "hostType": "docker",
     "matchHost":  "docker.io",
     "enabled": false
  },{
-    hostType: 'docker',
+    "hostType": "docker",
     "matchHost":  "quay.io",
     "enabled": false
  }]
