@@ -5,5 +5,8 @@
  "hostRules": [{
     "matchHost":  "docker.io",
     "enabled": false
+ },{
+    "matchHost":  "quay.io",
+    "enabled": false
  }]
 }
