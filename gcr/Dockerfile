@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/ingress-nginx/controller:v0.49.3
+FROM k8s.gcr.io/kube-apiserver:v1.15.2
