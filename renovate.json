@@ -3,7 +3,6 @@
     "config:base"
   ],
  "hostRules": [{
-    "hostType": "docker",
     "matchHost":  "docker.io",
     "enabled": false
  }]
